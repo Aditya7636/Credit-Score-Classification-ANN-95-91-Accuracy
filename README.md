@@ -48,10 +48,7 @@ The repository is organized as follows:
 ```
 ├── data/                       # Dataset files
 ├── notebooks/                  # Jupyter notebooks for exploratory data analysis and model training
-├── src/                        # Source code for model and utility functions
 ├── README.md                   # Project README file
-└── requirements.txt            # List of dependencies
-```
 
 ## Usage
 
